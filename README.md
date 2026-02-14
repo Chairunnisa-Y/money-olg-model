@@ -16,7 +16,7 @@ All notes are independently written and intended for learning, presentation, and
 
 ## Project Status
 
-This repository is a work in progress. Additional notes, figures, and presentation materials will be added gradually.
+This repository is a final report that just submitted after a faculty grading.
 
 ## Disclaimer
 
